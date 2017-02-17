@@ -21,7 +21,8 @@ keywords: "ocesaulo, blog, personal"
 # Intro layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+#black-favicon: "/img/black-lab-glass.ico"
+black-favicon: ""
 background-img: "../img/067-DSC03281.jpg"
 me-img: "/img/jetpacktocat.png"
 
@@ -90,7 +91,7 @@ social:
 pages_list:
   About: 'about'
   Blog: 'blog'
-  Career: 'career'
+#  Career: 'career'
   Contact: 'contact'
 
 # Pagination path
