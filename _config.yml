@@ -24,7 +24,7 @@ keywords: "ocesaulo, blog, personal"
 #black-favicon: "/img/black-lab-glass.ico"
 black-favicon: ""
 background-img: "../img/067-DSC03281.jpg"
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/spam.png"
 
 ########
 # Blog #
@@ -52,7 +52,7 @@ events:
     description: "Started coding"
 
 # First image of the Career timeline
-career-img: "/img/career/default.png"
+career-img: "/img/best_gif.gif"
 
 ##################
 # Contact layout #
