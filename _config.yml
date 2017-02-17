@@ -91,7 +91,7 @@ social:
 pages_list:
   About: 'about'
   Blog: 'blog'
-#  Career: 'career'
+  Career: 'career'
   Contact: 'contact'
 
 # Pagination path
